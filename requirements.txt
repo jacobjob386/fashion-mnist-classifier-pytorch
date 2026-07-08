@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+optuna
+torch==2.11.0+cu128
+torchvision==0.26.0+cu128
